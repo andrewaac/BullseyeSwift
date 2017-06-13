@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Score:"; ObjectID = "BHU-He-EIb"; */
+"BHU-He-EIb.text" = "Score:";
+
+/* Class = "UIButton"; normalTitle = "Hit me!"; ObjectID = "Ekk-of-nae"; */
+"Ekk-of-nae.normalTitle" = "Hit me!";
+
+/* Class = "UILabel"; text = "Put the Bull's Eye as close as you can to:"; ObjectID = "Eov-ti-jVo"; */
+"Eov-ti-jVo.text" = "Put the Bull's Eye as close as you can to:";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "KGE-Rj-fei"; */
+"KGE-Rj-fei.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Start Over"; ObjectID = "OeT-eh-5tA"; */
+"OeT-eh-5tA.normalTitle" = "Start Over";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "bJW-5t-hFk"; */
+"bJW-5t-hFk.text" = "100";
+
+/* Class = "UILabel"; text = "Round:"; ObjectID = "fCF-ML-e1j"; */
+"fCF-ML-e1j.text" = "Round:";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "vOx-Gc-wgB"; */
+"vOx-Gc-wgB.text" = "999";
+
+/* Class = "UILabel"; text = "999999"; ObjectID = "w1B-WD-TI9"; */
+"w1B-WD-TI9.text" = "999999";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "zSW-o6-pQi"; */
+"zSW-o6-pQi.text" = "1";

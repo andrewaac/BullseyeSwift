@@ -1,0 +1,19 @@
+/* 
+  File.strings
+  BullsEye
+
+  Created by Andrew Cunningham on 13/06/2017.
+  Copyright © 2017 andrewaac. All rights reserved.
+*/
+
+"well_done"     = "Well done!";
+"ten_points"    = "You just earned 10 points";
+"good_attempt"  = "Good attempt!";
+"five_points"   = "You just earned 5 points";
+"unlucky"       = "Unlucky";
+"no_points"     = "No points this time";
+"rules_desc"    = "Points are awarded on the following rules:\n"
+                    + "10 Points: If you match the number\n"
+                    + "5 Points: If you are within range of 5\n"
+                    + "0 Points: If you are outside range of 5";
+"rules_title"   = "Rules";
