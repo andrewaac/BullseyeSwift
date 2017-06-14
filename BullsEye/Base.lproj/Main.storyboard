@@ -139,10 +139,14 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="checkButton" destination="Ekk-of-nae" id="SWB-s9-qg0"/>
+                        <outlet property="gameDesc" destination="Eov-ti-jVo" id="uHS-ft-oU6"/>
                         <outlet property="infoButton" destination="T1O-kW-eqP" id="Kyk-fi-Bby"/>
+                        <outlet property="levelLabel" destination="vOx-Gc-wgB" id="EQC-gW-8ua"/>
+                        <outlet property="levelTextLabeL" destination="fCF-ML-e1j" id="p8s-F8-vNR"/>
                         <outlet property="randomNumLabel" destination="KGE-Rj-fei" id="gEf-N9-4rM"/>
-                        <outlet property="roundLabel" destination="vOx-Gc-wgB" id="bDB-sa-Ngy"/>
                         <outlet property="scoreLabel" destination="w1B-WD-TI9" id="IRo-6a-prg"/>
+                        <outlet property="scoreTextLabel" destination="BHU-He-EIb" id="N7K-xW-zHR"/>
                         <outlet property="slider" destination="oVZ-M4-FMi" id="bVq-nM-Eqa"/>
                         <outlet property="startOverButton" destination="OeT-eh-5tA" id="6Yt-5U-4IQ"/>
                     </connections>

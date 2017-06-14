@@ -6,14 +6,30 @@
   Copyright © 2017 andrewaac. All rights reserved.
 */
 
+// MARK: MAIN SCREEN
+"start_over"    = "Reiniciar";
+"points"        = "Puntos";
+"level"         = "Nivel";
+"game_desc"     = "Lo mejor que puedas, mueva el control deslizante como cerca a:";
+"check"         = "Verificar";
+
+// MARK: ALERT - Generic
+"next_level"    = "Nivel siguiente";
+
+// MARK: Alert - 10 Points
 "well_done"     = "¡Bravo!";
 "ten_points"    = "¡Has ganado 10 puntos!";
+
+// MARK: ALERT - 5 POINTS
 "good_attempt"  = "¡Buen intento!";
 "five_points"   = "¡Has ganado 5 puntos!";
+
+// MARK: ALERT - 0 POINTS
 "unlucky"       = "Mal Suerte";
 "no_points"     = "No has ganado puntos";
-"rules_desc"    = "Puntos se están ganado por estas reglas:\n"
-                    + "10 Puntos: Si los números son los mismos\n"
-                    + "5 Puntos: Si estás entre de gama de 5\n"
-                    + "0 Puntos: Si estás afuera de gama de 5";
+
+// MARK: ALERT - GAME INFO
 "rules_title"   = "Reglas";
+"rules_desc"    = "Puntos se están ganado por estas reglas:\n10 Puntos: Si los números son los mismos\n5 Puntos: Si estás entre de gama de 5\n0 Puntos: Si estás afuera de gama de 5";
+"dismiss"       = "Despedir";
+

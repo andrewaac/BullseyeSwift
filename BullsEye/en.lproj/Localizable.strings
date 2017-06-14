@@ -6,14 +6,31 @@
   Copyright © 2017 andrewaac. All rights reserved.
 */
 
+// MARK: MAIN SCREEN
+"start_over"    = "Start Over";
+"points"        = "Points";
+"level"         = "Level";
+"game_desc"     = "Move the slider as close as you can to:";
+"check"         = "Check";
+
+// MARK: ALERT - Generic
+"next_level"    = "Next level";
+
+// MARK: ALERT - 10 POINTS
 "well_done"     = "Well done!";
 "ten_points"    = "You just earned 10 points";
+
+// MARK: ALERT - 5 POINTS
 "good_attempt"  = "Good attempt!";
 "five_points"   = "You just earned 5 points";
+
+// MARK: ALERT - 0 POINTS
 "unlucky"       = "Unlucky";
 "no_points"     = "No points this time";
-"rules_desc"    = "Points are awarded on the following rules:\n"
-                    + "10 Points: If you match the number\n"
-                    + "5 Points: If you are within range of 5\n"
-                    + "0 Points: If you are outside range of 5";
+
+// MARK: ALERT - GAME INFO
 "rules_title"   = "Rules";
+"rules_desc"    = "Points are awarded on the following rules:\n10 Points: If you match the number\n5 Points: If you are within range of 5\n0 Points: If you are outside range of 5";
+"dismiss"       = "Dismiss";
+
+
